@@ -1,5 +1,14 @@
 # 🛑 WannaCry Ransomware — Technical Case Study (2017)
 
+## 🧑‍💻 Learning Objective
+
+This repository is part of my beginner cybersecurity learning journey.
+I am studying historical ransomware incidents to understand:
+- Vulnerability exploitation
+- Worm propagation
+- Encryption techniques
+- Incident response basics
+
 ## 📌 Overview
 
 WannaCry (also known as WannaCrypt or WCry) was a worm-based ransomware attack that began on 12 May 2017. It rapidly spread across the globe by exploiting a vulnerability in Microsoft Windows systems.
